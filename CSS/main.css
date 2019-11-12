@@ -1,0 +1,79 @@
+html{
+	
+}
+
+	.short{
+		color:white;
+	}
+
+	.detail{
+		color:white;
+	}
+
+	.foto{
+		height:235px;
+	}
+
+	.text{
+		text-shadow: 0.1em 0.1em #333
+		color:white;
+	}
+
+	.lol{
+		color:white;
+	}
+
+	.fb{
+		height:35px;
+	}
+
+	.insta{
+		height:30px;
+	}
+
+	.mail{
+		height:30px;
+	}
+
+	.video{
+		height:300px;
+	}
+
+	.titulo{
+		color:white;
+	}
+
+
+			.yeah{
+			background-color:salmon; 
+			padding: 10px;
+			text-align: center;
+			font-family: 'Jomolhari', serif;
+			font-size: 24px;
+			font-weight: bold;
+			border-radius: 1px;
+			box-shadow: 2px 2px 8px black;
+			transition: 1s all;
+			text-decoration: underline;
+			cursor: pointer;
+			max-width: 440px;
+			margin:auto;
+	
+
+			}
+			.yeah:hover{
+				box-shadow: 1px 1px 1px black;
+				padding: 15px;
+				margin-top: -20px;
+				background-color: purple
+			}
+			a{
+				color: black;
+			}
+
+			body{
+				padding: 5%;
+				background-image: url(../Images/drosa.jpeg);
+				background-size:100%;
+
+			}
